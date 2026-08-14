@@ -148,7 +148,7 @@
         "max_error": 0.005,
         "min_clearance": 0.127,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.381,
+        "min_copper_edge_clearance": 0.2,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.254,
         "min_hole_to_hole": 0.127,
@@ -158,10 +158,10 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 1.0,
         "min_text_thickness": 0.127,
-        "min_through_hole_diameter": 0.254,
+        "min_through_hole_diameter": 0.2,
         "min_track_width": 0.127,
-        "min_via_annular_width": 0.1016,
-        "min_via_diameter": 0.254,
+        "min_via_annular_width": 0.125,
+        "min_via_diameter": 0.2,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
@@ -538,10 +538,10 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
+        "track_width": 0.25,
         "tuning_profile": "",
-        "via_diameter": 0.5,
-        "via_drill": 0.254,
+        "via_diameter": 0.45,
+        "via_drill": 0.2,
         "wire_width": 6
       }
     ],
@@ -556,7 +556,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "./Fabrication",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -643,12 +643,24 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -693,7 +705,7 @@
         "uuid": "ddb69247-eed9-4f3f-9fd5-97496ec47cb8"
       }
     ],
-    "used_designators": "J1-2,#PWR1-6,C1-2,U1",
+    "used_designators": "J1-2,#PWR1-6,C1-2,U1-2",
     "variants": []
   },
   "sheets": [
