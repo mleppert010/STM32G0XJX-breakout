@@ -224,7 +224,7 @@
 		(property ki_fp_filters "SO*3.9x4.9mm*P1.27mm*")
 		(path "/e247e924-fb43-4768-bced-add2bf1afd65")
 		(sheetname "/")
-		(sheetfile "STM32G0J0-breakout.kicad_sch")
+		(sheetfile "STM32G0XJX-breakout.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -601,7 +601,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/511ea496-a057-4feb-b19d-e0325a135201")
 		(sheetname "/")
-		(sheetfile "STM32G0J0-breakout.kicad_sch")
+		(sheetfile "STM32G0XJX-breakout.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -759,7 +759,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/3f0d90c8-84f8-461e-b751-c669aeda4ea7")
 		(sheetname "/")
-		(sheetfile "STM32G0J0-breakout.kicad_sch")
+		(sheetfile "STM32G0XJX-breakout.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -903,7 +903,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/3974e3ec-537b-489e-9995-dc36f438bec6")
 		(sheetname "/")
-		(sheetfile "STM32G0J0-breakout.kicad_sch")
+		(sheetfile "STM32G0XJX-breakout.kicad_sch")
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1173,7 +1173,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/26af6abe-83d3-452f-8ba0-843d7ab7ec49")
 		(sheetname "/")
-		(sheetfile "STM32G0J0-breakout.kicad_sch")
+		(sheetfile "STM32G0XJX-breakout.kicad_sch")
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
