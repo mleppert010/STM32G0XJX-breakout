@@ -1519,7 +1519,7 @@
 			(uuid "0aeb9a5e-79ba-48f9-8ea2-e340e4c86585")
 		)
 		(instances
-			(project "stm32c011-8pin"
+			(project "STM32G0J0-breakout"
 				(path "/ddb69247-eed9-4f3f-9fd5-97496ec47cb8"
 					(reference "J2")
 					(unit 1)
@@ -1598,7 +1598,7 @@
 			(uuid "4e0e23f9-b3fe-4014-ab6e-12f675ee3c09")
 		)
 		(instances
-			(project "stm32c011-8pin"
+			(project "STM32G0J0-breakout"
 				(path "/ddb69247-eed9-4f3f-9fd5-97496ec47cb8"
 					(reference "#PWR05")
 					(unit 1)
@@ -1684,7 +1684,7 @@
 			(uuid "1462b061-0397-491f-be5d-c5b8cf4105b7")
 		)
 		(instances
-			(project "stm32c011-8pin"
+			(project "STM32G0J0-breakout"
 				(path "/ddb69247-eed9-4f3f-9fd5-97496ec47cb8"
 					(reference "J1")
 					(unit 1)
@@ -1765,7 +1765,7 @@
 			(uuid "74ec88f1-ec78-4e44-8061-e7bc9e069857")
 		)
 		(instances
-			(project "stm32c011-8pin"
+			(project "STM32G0J0-breakout"
 				(path "/ddb69247-eed9-4f3f-9fd5-97496ec47cb8"
 					(reference "C2")
 					(unit 1)
@@ -1844,7 +1844,7 @@
 			(uuid "aae33915-74c7-4959-ac51-cfdff70a114a")
 		)
 		(instances
-			(project "stm32c011-8pin"
+			(project "STM32G0J0-breakout"
 				(path "/ddb69247-eed9-4f3f-9fd5-97496ec47cb8"
 					(reference "#PWR06")
 					(unit 1)
@@ -1925,7 +1925,7 @@
 			(uuid "f1786df2-e5a6-4516-83e5-9b39b14b6b37")
 		)
 		(instances
-			(project "stm32c011-8pin"
+			(project "STM32G0J0-breakout"
 				(path "/ddb69247-eed9-4f3f-9fd5-97496ec47cb8"
 					(reference "C1")
 					(unit 1)
@@ -2003,7 +2003,7 @@
 			(uuid "ae77954e-0e3a-4c64-81df-2ca4667e48bc")
 		)
 		(instances
-			(project "stm32c011-8pin"
+			(project "STM32G0J0-breakout"
 				(path "/ddb69247-eed9-4f3f-9fd5-97496ec47cb8"
 					(reference "#PWR04")
 					(unit 1)
@@ -2081,7 +2081,7 @@
 			(uuid "5608d8d7-67cf-42e4-9849-ccc1fa28842b")
 		)
 		(instances
-			(project "stm32c011-8pin"
+			(project "STM32G0J0-breakout"
 				(path "/ddb69247-eed9-4f3f-9fd5-97496ec47cb8"
 					(reference "#PWR03")
 					(unit 1)
@@ -2159,7 +2159,7 @@
 			(uuid "24103ca9-96d1-40b2-b54a-73b4852725aa")
 		)
 		(instances
-			(project "stm32c011-8pin"
+			(project "STM32G0J0-breakout"
 				(path "/ddb69247-eed9-4f3f-9fd5-97496ec47cb8"
 					(reference "#PWR01")
 					(unit 1)
@@ -2237,7 +2237,7 @@
 			(uuid "e812133b-a606-4de5-862d-d8b1bdb7d249")
 		)
 		(instances
-			(project "stm32c011-8pin"
+			(project "STM32G0J0-breakout"
 				(path "/ddb69247-eed9-4f3f-9fd5-97496ec47cb8"
 					(reference "#PWR02")
 					(unit 1)
@@ -2338,7 +2338,7 @@
 			(uuid "414c5937-2233-4a51-8361-146cb1f9514a")
 		)
 		(instances
-			(project "stm32c011-8pin"
+			(project "STM32G0J0-breakout"
 				(path "/ddb69247-eed9-4f3f-9fd5-97496ec47cb8"
 					(reference "U1")
 					(unit 1)

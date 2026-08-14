@@ -520,7 +520,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "stm32c011-8pin.kicad_pro",
+    "filename": "STM32G0J0-breakout.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -688,7 +688,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "stm32c011-8pin.kicad_sch",
+        "filename": "STM32G0J0-breakout.kicad_sch",
         "name": "Root",
         "uuid": "ddb69247-eed9-4f3f-9fd5-97496ec47cb8"
       }
